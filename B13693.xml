@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon concerning the Epiphany preached at the cathedrall church of Christ in Oxford. By Richard Gardyner, D.D. and canon of the same church.</title>
+            <author>Gardiner, Richard, 1591-1670.</author>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13693</idno><idno type="EEBO-CITATION">99838578</idno>
+  <idno type="VID">177631</idno>
+  <idno type="EEBO-PROQUEST">2240878354</idno>
+  <idno type="STC">STC 11567</idno>
+  <idno type="STC">ESTC S102816</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838578e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1098:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon concerning the Epiphany preached at the cathedrall church of Christ in Oxford. By Richard Gardyner, D.D. and canon of the same church.</title>
+                  <author>Gardiner, Richard, 1591-1670.</author>
+               </titleStmt>
+               <extent>[6], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, and are to be sold by Matth. Hunt,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>Anno Dom. 1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Epiphany --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177631:1"/>
+            <p>A SERMON CONCERNING THE EPIPHANY, PREACHED AT THE Cathedrall Church of Christ in <hi>Oxford.</hi>
+            </p>
+            <p>By RICHARD GARDYNER, D. D. and <hi>Canon</hi> of the same <hi>Church.</hi>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by LEONARD LICHFIELD, and are to be sold by MATTH. HVNT. <hi>Anno Dom.</hi> 1639.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177631:2"/>
+            <pb facs="tcp:177631:2"/>
+            <head>TO THE RIGHT <hi>REVEREND FATHER</hi> IN GOD, IOHN, LORD-BISHOP OF <hi>OXFORD,</hi> my much Honour'd <hi>Diocesan.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am as full of <hi>hope</hi> as <hi>desire</hi> that your <hi>Gentlenesse</hi> will helpe into the <hi>light</hi> this <hi>bashfull</hi> Piece of my <hi>Composure.</hi> For having long liv'd in the <hi>Sun-shine</hi> of your Favour, it may
+<pb facs="tcp:177631:3"/>well be expected that somewhat of mine should bee <hi>colour'd</hi> with the <hi>beames.</hi> The <hi>Argument</hi> being the <hi>wise mens</hi> devotion claimes a peculi<g ref="char:EOLhyphen"/>ar Interest in your <hi>religious</hi> protecti<g ref="char:EOLhyphen"/>on, since 'tis <hi>demonstratively</hi> evident that the Example of their <hi>piety</hi> hath made a conspicuous <hi>reflection</hi> on your <hi>practise,</hi> which spares <hi>no Cost</hi> that <hi>God</hi> may be <hi>serv'd</hi> like <hi>Himselfe.</hi>
+            </p>
+            <p>We have seene their <hi>well-ground<g ref="char:EOLhyphen"/>ed</hi> faith, which <hi>S. Peter</hi> calls <hi>Luci<g ref="char:EOLhyphen"/>ferum in cordibus,</hi> appeare in the franke, and free Largesse of your Love to <hi>Christ.</hi> The sacriledge of former times purloyn'd the <hi>holy treasures,</hi> challeng'd the setl'd <hi>mansi<g ref="char:EOLhyphen"/>ons</hi> of your <hi>Sea</hi> for their owne by <hi>Law,</hi> as if they mean'd you should
+<pb facs="tcp:177631:3"/>be knowne to be the <hi>most Christian Bishop</hi> in having with <hi>Christ</hi> no <hi>house</hi> left to <hi>repose</hi> your <hi>head</hi> in, nor <hi>Chappell</hi> standing, wherein you might offer up <hi>Attonement for them.</hi>
+            </p>
+            <p>To remove this scandall your <hi>Exemplary</hi> munificence ayded by <hi>So<g ref="char:EOLhyphen"/>veraigne Power</hi> hath <hi>given</hi> out of your <hi>Cofers</hi> to the Church, what o<g ref="char:EOLhyphen"/>thers have <hi>taken away</hi> from the Church to <hi>store</hi> their <hi>Cofers. So</hi> that through your Lord-ships bounty we may now againe say <hi>here</hi> stands the <hi>Lords Oratory,</hi> and <hi>This</hi> is the Bishops <hi>Palace.</hi> Heretofore the <hi>E<g ref="char:EOLhyphen"/>vangelicall</hi> Altar was plac'd so <hi>incon<g ref="char:EOLhyphen"/>gruously</hi> throughout the whole <hi>Dio<g ref="char:EOLhyphen"/>cesse</hi> that a <hi>Proselyte</hi> might easily mi<g ref="char:EOLhyphen"/>stake it for a <hi>secular</hi> Table, or <hi>common</hi>
+               <pb facs="tcp:177631:4"/>Boord: now it hath that exact <hi>positi<g ref="char:EOLhyphen"/>on,</hi> which is consonant to the <hi>Pri<g ref="char:EOLhyphen"/>mitive</hi> Times. To prevent a <hi>promis<g ref="char:EOLhyphen"/>cuous</hi> imployment of our Cathedrall <hi>Ʋtensills</hi> your pious Zeale hath <hi>stampt</hi> Gods <hi>Marke</hi> upon them, whereby none may dare to alter the <hi>propriety,</hi> nor pollute them with <hi>pro<g ref="char:EOLhyphen"/>fane</hi> uses. And thus you have <hi>wal<g ref="char:EOLhyphen"/>ked</hi> in the <hi>steppes</hi> of wise men both in the <hi>Substance,</hi> and <hi>circumstance,</hi> which makes me confident that this <hi>Narration</hi> of the <hi>wise mens</hi> diligent enquiring, and devout worshipping our <hi>Saviour</hi> will find a gracious ac<g ref="char:EOLhyphen"/>ceptance, being humbly presented to your <hi>Fatherly indulgence</hi> by</p>
+            <closer>
+               <signed>Your Lordships obliged to serve you in all Canonicall obedience. <hi>RICHARD GARDYNER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:177631:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>TEXT 2. C. V. 2. Of the Gospell by S<seg rend="sup">t</seg> Mathew.</hi>
+                  </bibl>
+                  <p>Where is he that is borne King of the Iews? For we have seene his starre in the East, and are come to worship him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Have heretofore re<g ref="char:EOLhyphen"/>related the <hi>Iournall,</hi> &amp; <hi>Gestes</hi> of the Pro<g ref="char:EOLhyphen"/>gresse, which the <hi>Ma<g ref="char:EOLhyphen"/>gi</hi> made to <hi>Ierusalem,</hi> taking my <hi>Rise</hi> at the first verse, as at the first <hi>stage</hi> of their set<g ref="char:EOLhyphen"/>ting forth. Now quite to leave them there, and upon no opportunity to reflect on the <hi>Motive,</hi> and <hi>End</hi> of their Journey; what
+<pb facs="tcp:177631:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:177631:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:177631:6"/>were it but with the <hi>Foxe</hi> in the <hi>Fable</hi> to lick the <hi>outside</hi> of the Glasse, and not to tast the <hi>sweetes</hi> that are within it,
+<note place="margin">Naz. Orat. 11.</note> or in the words of <hi>Nazianzen</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to commend a goodly <hi>Statue</hi> frō the <hi>shadow</hi> it casts, and to passe by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, those perfections, which de<g ref="char:EOLhyphen"/>serve our <hi>chiefe</hi> commendations. The <hi>Tuesday</hi> Course then being almost conti<g ref="char:EOLhyphen"/>guous to their <hi>Solemne</hi> Festivall seasonably reverted me to a survay of this second verse, since therein we may discover the maine <hi>drift</hi> of their <hi>travell,</hi> &amp; <hi>expence.</hi> Our <hi>Dialect</hi> renders them <hi>Wise men,</hi> and signifi<g ref="char:EOLhyphen"/>cantly too: For at their first arrivall they did not weare away the <hi>Spanne</hi> of their time in descrying the <hi>Gaudes</hi> and <hi>Glories</hi> of the Citty, in trifling about impertinent, &amp; frivolous Questions, but like <hi>Wise men</hi> in<g ref="char:EOLhyphen"/>deed they forthwith propound a <hi>religious</hi> demand, saying, <hi>Where is He, which is borne King of the Iews?</hi> And yet I feare the world<g ref="char:EOLhyphen"/>ly wise will take them for none of the wi<g ref="char:EOLhyphen"/>sest in regard of that <hi>forme</hi> of <hi>Jntergatory.</hi>
+               <pb n="3" facs="tcp:177631:6"/>The method of humane Policy prescribes Travellers to set a watch before their mouthes, to bee <hi>thrifty</hi> of their language when they converse with forreine Nati<g ref="char:EOLhyphen"/>ons, because a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or freedome of speech in such betrayes <hi>levity,</hi> and hazards <hi>safety.</hi> These then may seeme to be <hi>nick<g ref="char:EOLhyphen"/>nam'd</hi> Wisemen, onely in an <hi>Jrony,</hi> for who would not esteeme it rather an insolent <hi>presumption</hi> then well weigh'd <hi>discretion</hi> to dispute the <hi>Rights,</hi> and <hi>Proprieties</hi> of a Crowne; to raise a bruit of a <hi>Naturall</hi> King newly borne when another is elected, and <hi>established</hi> in the <hi>Throne?</hi> Such an affront as this is able to strike fire out of the dullest <hi>Prince,</hi> much more out of <hi>Herod,</hi> who as he was a <hi>Foxe</hi> in subtlety, so he shew'd himselfe a <hi>Lion</hi> in Cruelty. For when their <hi>Errand</hi> was presented to his Eares his enra<g ref="char:EOLhyphen"/>ged jealousie burn'd so fiercely that it <hi>suck'd</hi> up the bloud of all the <hi>Male</hi> Infants with<g ref="char:EOLhyphen"/>in the Coasts <hi>of Bethlē.</hi> And had not an hea<g ref="char:EOLhyphen"/>venly inspiration diverted these <hi>Nuncios</hi> from the intended way of their <hi>Returne,</hi>
+               <pb n="4" facs="tcp:177631:7"/>their bloud also should have runn'd among the <hi>Ingredients,</hi> and made up the <hi>dose</hi> to al<g ref="char:EOLhyphen"/>lay his fury.</p>
+            <p>But the <hi>Babe-slayer</hi> needed not thus to rave, <hi>Christ's</hi> susception of our Nature was no way <hi>ominous</hi> to his usurped Title. Hee came, saith S. <hi>Mathew,</hi> to <hi>minister, and not to be ministr'd unto.</hi> Tis true, He was a <hi>King, Pilate</hi> an Infidell to the <hi>preiudice</hi> of <hi>Caesar,</hi> his Emperour, &amp; with <hi>hazard</hi> of his owne life stilld him so at his death, as those stran<g ref="char:EOLhyphen"/>gers did at his <hi>Birth.</hi> Yea himselfe confess'd it, <hi>Mark</hi> 14. <hi>&amp;</hi> his <hi>Father</hi> confirm'd it. Ps. 2. <hi>At Rex fuit in Saecula, non de saeculo:</hi> yet he was no <hi>Temporary</hi> Monarch <hi>of</hi> this Earth, but the King <hi>Eternal</hi> who hath all power <hi>in</hi> heaven, and <hi>in</hi> Earth, and so he was not to <hi>succeed</hi> any, nor any other him. Indeed his <hi>Royall</hi> Descent, &amp; proximity of succession to the <hi>Crown</hi> might have claim'd the <hi>Throne</hi> of his <hi>Father</hi> David,
+<note place="margin">See this fully prov'd in <hi>Speeds.</hi> Cloud of witnesses.</note> the externall <hi>Monar<g ref="char:EOLhyphen"/>chy</hi> of all <hi>Iewry.</hi> For both by <hi>Ioseph</hi> his <hi>Le<g ref="char:EOLhyphen"/>gall</hi> Father, and <hi>Mary</hi> his <hi>Naturall</hi> Mother, himselfe was the onely immediate, next
+<pb n="5" facs="tcp:177631:7"/>
+               <hi>Heire</hi> to <hi>Abiud,</hi> &amp; <hi>Rhesa</hi> sonnes of <hi>Zerubba<g ref="char:EOLhyphen"/>bel,</hi> in whose <hi>Line</hi> the Crowne by <hi>Right,</hi> should have been invested after <hi>Jechoniah.</hi>
+            </p>
+            <p>But he would not hold by <hi>that tenure:</hi> if he had, his <hi>Birth</hi> should not have bin so vile, and contemptible, nor his <hi>life</hi> so toile<g ref="char:EOLhyphen"/>some, and miserable. He would not have <hi>begunne</hi> his <hi>State</hi> in a Manger, nor should a <hi>Cratch</hi> have been his <hi>Cradle;</hi> and <hi>brutish</hi> attendants his neerest <hi>Courtiers.</hi> A scan<g ref="char:EOLhyphen"/>dall so great in the <hi>fastuous</hi> conceit of the <hi>Priests,</hi> and <hi>Scribes,</hi> that they would not be brought to acknowledge him to be the <hi>Messias,</hi> to whom they were to doe their <hi>homage,</hi> and sweare <hi>allegeance,</hi> although their forefather <hi>Iacob</hi> directly left it in his Testament, that when <hi>Shiloh</hi> came, all the shew, and <hi>outward</hi> pompe of the earthly <hi>Scepter</hi> should depart from <hi>Iudah,</hi> and <hi>Za<g ref="char:EOLhyphen"/>chary</hi> in expresse tearmes proclaimed it to <hi>Jerusalem, Behold thy King cometh to thee poore and lowly.</hi> For the <hi>Iewes,</hi> who have been more diligent in the <hi>custody</hi> and <hi>por<g ref="char:EOLhyphen"/>tage</hi> of the old <hi>Testament,</hi> then in the true
+<pb n="6" facs="tcp:177631:8"/>Exposition of it, were notable to discerne through so thick a <hi>vaile</hi> as lay over their eyes, plaine <hi>Prophesies</hi> from obscure <hi>Aenig<g ref="char:EOLhyphen"/>maes,</hi> &amp; therefore being desirous to brave it in the flesh, <hi>phantastically</hi> supposed that He who was to be borne <hi>King</hi> in their <hi>Quarters</hi> should trample on the necks, and Crownes of <hi>Princes,</hi> loosen the chaines wherewith they were manacl'd by the <hi>Romanes,</hi> and make them all great, and powerfull <hi>Potentates.</hi>
+            </p>
+            <p>But <hi>the Lord raignes, be the Earth never so impatient: Non brachio saeculari,</hi> not by out<g ref="char:EOLhyphen"/>ward force over our goods and bodies, so terrestriall <hi>Rulers</hi> exercise dominion. The weapons of his Kingdome, are of an <hi>hea<g ref="char:EOLhyphen"/>venly</hi> nature, his <hi>two edged</hi> sword cutts be<g ref="char:EOLhyphen"/>yond the <hi>marrow,</hi> pierceth the deepest se<g ref="char:EOLhyphen"/>crets, and retir'd cogitations of the inward <hi>Cabinet.</hi> The most obdurate sinner that sets up cavills, and raiseth as it were bull<g ref="char:EOLhyphen"/>warks against the Lord, and his Anointed, feeles at one time or other, the power of his <hi>Spirit,</hi> ready to beat downe those <hi>strong
+<pb n="7" facs="tcp:177631:8"/>holds</hi> of sinfull imaginations. So that the breast of every carnall man hath that, which will speak for subjection to <hi>Christs</hi> dominion. I will not wander beyond the <hi>pale</hi> of the Church, nor touch those bad <hi>humors</hi> in the <hi>mysticall</hi> Body, which want <hi>nerves,</hi> and <hi>sinewes</hi> of faith to unite them to the <hi>Head.</hi> Our Saviour's entire <hi>Regiment</hi> is among his true members, who receive sense, motion, and <hi>quickning</hi> spirits out of his <hi>Fulnesse.</hi> The Assemblies of the <hi>Faith<g ref="char:EOLhyphen"/>full</hi> are his <hi>immediat</hi> subjects, with whom his <hi>Word</hi> goes for a <hi>Law,</hi> and the <hi>guidance</hi> of his Spirit, for the <hi>sway</hi> of his Scepter. In them he <hi>Lordes</hi> it as a <hi>King</hi> in his King<g ref="char:EOLhyphen"/>dome, when their understandings desire to know nothing but <hi>him,</hi> and what may stand with his <hi>truth;</hi> when their wills, and affections resigne, and yeeld up all in obe<g ref="char:EOLhyphen"/>dience, and <hi>conformity</hi> to his <hi>will.</hi> He ma<g ref="char:EOLhyphen"/>nifests the <hi>might</hi> of his <hi>Supremacy</hi> in their <hi>rescue</hi> from the thraldome of sinne, the <hi>sor<g ref="char:EOLhyphen"/>cery</hi> of the flesh, and from the <hi>vigour</hi> of the Curse. And that the world may know he
+<pb n="8" facs="tcp:177631:9"/>is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the great <hi>Monarch</hi> of the uni<g ref="char:EOLhyphen"/>verse, <hi>King</hi> of <hi>Kings,</hi> and raigning over all that raignes, he makes all things <hi>service<g ref="char:EOLhyphen"/>able</hi> to their good. Sometimes permitting the rage of <hi>Tyrants</hi> to grow on high, that thereby he may be glorified in the Cou<g ref="char:EOLhyphen"/>rage, and constancy of his Servants amidst the <hi>pangs</hi> and torments of death. Other<g ref="char:EOLhyphen"/>whiles he restraines the tyranny of their <hi>Persecutors,</hi> causing them on a sudden to become his <hi>Peoples</hi> humble <hi>Oratours.</hi>
+            </p>
+            <p>The <hi>Magi</hi> guided by the holy Ghost, en<g ref="char:EOLhyphen"/>title him King of the <hi>Iewes transcendently,</hi> because his Kingdome of <hi>Grace,</hi> the <hi>Stan<g ref="char:EOLhyphen"/>dard</hi> of the Gospell, was first advanc'd in their <hi>Coasts.</hi> They were his <hi>Primogeniti;</hi> and 'tis the <hi>Prerogative</hi> of the first begot<g ref="char:EOLhyphen"/>ten, to have a more honourable mention then others, which are <hi>Aliens.</hi> Yet his af<g ref="char:EOLhyphen"/>fection was not so <hi>wedded</hi> to that <hi>Nation,</hi> that he wholy put the <hi>Gentiles</hi> out of his protection. The <hi>Pale</hi> of <hi>Palestine</hi> was too restrain'd, too narrow for his bounds. His dominion was to be extended so farre as
+<pb n="9" facs="tcp:177631:9"/>the Sunne <hi>darts</hi> his <hi>beames:</hi> the <hi>Heathen</hi> were given as his Inheritance, and the ends of the Earth for his Possession. The pro<g ref="char:EOLhyphen"/>mise of the seed of the woman, which should break the <hi>Serpent's</hi> head, was made to <hi>Adam</hi> in Paradise as he represented the whole <hi>Posterity</hi> of <hi>Man-kinde,</hi> and so no <hi>Nation,</hi> no <hi>Condition</hi> can shut out a good heart from <hi>God.</hi> Why was the <hi>Stranger</hi> which sojourn'd among the <hi>Hebrewes</hi> ca<g ref="char:EOLhyphen"/>pable of Circumcision, the <hi>pledge</hi> and <hi>seale</hi> of <hi>God's</hi> favour, but to signifie that saving health was to be deriv'd from their <hi>Tribes</hi> to all the <hi>Kinreds</hi> of the Earth. Neither is it without a <hi>mystery</hi> that in old Simeon's <hi>Anthem</hi> the <hi>light</hi> of the Gentiles is placed before the <hi>glory</hi> of Israell.
+<note place="margin">Tert ul. lib. adv. Iudae.</note>
+               <hi>Tertullian</hi> is so farre from giving preeminence to the <hi>Iews</hi> that <hi>he</hi> proves it was prefigur'd by the Birth of <hi>Esau,</hi> and <hi>Iacob,</hi> that the elder people of the <hi>Jewes</hi> should serve the younger of the <hi>Gentiles.</hi> Others will have their rejection to be shadow'd forth in <hi>Gedeon's</hi> dry <hi>fleece,</hi> and the vocation of the <hi>Gentiles</hi> in the wet
+<pb n="10" facs="tcp:177631:10"/>
+               <hi>floore.</hi> So that the <hi>Jewes</hi> were no more to be compar'd to the encrease of the <hi>Gentills,</hi> then the litle peece of <hi>Wooll</hi> to the whole <hi>Floore.</hi> Indeed the <hi>Jewes</hi> may truly be said to be like <hi>Gedeon's</hi> fleece; for as it was <hi>wa<g ref="char:EOLhyphen"/>ter'd</hi> with the raine of heaven when all the Land else was dry, so God did let fall the <hi>dew</hi> of his mercies on their <hi>territories,</hi> when he left all <hi>other</hi> places barren, and dryed up through want of the <hi>influence</hi> of his graces. But after their rebellion they became like <hi>Gedeon's</hi> fleece, which afterwards was on<g ref="char:EOLhyphen"/>ly dry, when there was <hi>dew</hi> on all the Earth besides. They were at first to <hi>God</hi> as <hi>Reu<g ref="char:EOLhyphen"/>ben</hi> to <hi>Iacob,</hi> the strength, and glory of his age; but by ingratitude with <hi>Reuben</hi> they lost their <hi>dignitie,</hi> and with <hi>Esau</hi> their <hi>birth-right.</hi>
+               <note place="margin">S. Ambros. Ep. 73. l. 9.</note>
+               <hi>Nam quomodo dicent Pater cùm verum Dei Filium negant per quem adoptio acquiri<g ref="char:EOLhyphen"/>tur?</hi> For with what comfort can they call <hi>God</hi> Father, who beleeve not in his onely <hi>Sonne,</hi> without whom they cannot bee a<g ref="char:EOLhyphen"/>dopted his <hi>children? Quomodò Testamen<g ref="char:EOLhyphen"/>tum nuncupant, qui mortem Testatoris negant.</hi>
+               <pb n="11" facs="tcp:177631:10"/>What <hi>right</hi> can they have in the <hi>Covenant,</hi> who undervalue the <hi>death</hi> of the <hi>Testator</hi> by which 'tis ratified? <hi>Quomodò libertatem usurpant, qui negant sanguinem, quo redempti sunt?</hi> How can they challenge the glorious <hi>liberty</hi> of the chosen, when they trample under their feet the <hi>bloud</hi> of their Redemp<g ref="char:EOLhyphen"/>tion? In vaine doe they boast they are de<g ref="char:EOLhyphen"/>scended from <hi>Abraham,</hi> since he is not a <hi>Jew</hi> who is one <hi>outward</hi> in the flesh, but <hi>in<g ref="char:EOLhyphen"/>ward</hi> in the Spirit. The Commonwealth of <hi>Israel</hi> is as well <hi>Mysticall,</hi> as <hi>Literall,</hi> and they are <hi>right</hi> heires to Christ's Kingdome, who reverence him as their <hi>Lord,</hi> &amp; <hi>King.</hi> So that <hi>wee</hi> are the seed of <hi>Israel,</hi> having <hi>prevailed</hi> to be adopted God's people. For wheresoever true beleevers keep their <hi>resi<g ref="char:EOLhyphen"/>dence,</hi> there the <hi>Land</hi> becomes <hi>Israel,</hi> &amp; the <hi>Church</hi> Sion. <hi>Quous{que} ergo Iudaee durissime?</hi>
+               <note place="margin">S. Maxim.</note> How long therefore ô thou carnall, stiffe<g ref="char:EOLhyphen"/>neck'd <hi>Iew,</hi> wilt thou stop thy Eares against the Dictates of the <hi>Patriark's,</hi> and Testi<g ref="char:EOLhyphen"/>monies of the <hi>Prophets?</hi> What a deadly ob<g ref="char:EOLhyphen"/>stinacy hath possess'd <hi>thy</hi> heart above all o<g ref="char:EOLhyphen"/>thers?
+<pb n="12" facs="tcp:177631:11"/>Thou canst not be perswaded to <hi>thy</hi> salvation by the <hi>tongues</hi> of <hi>Angels,</hi> &amp; yet the <hi>Wisemen</hi> were confirm'd, and brought to <hi>thy Christ</hi> by the <hi>sight</hi> of <hi>one</hi> starre, which is the <hi>motive</hi> of their Journey, <hi>vidimus stellam Ejus.</hi> Where is He that is borne King of the Jewes? for we have seen <hi>his</hi> Starre.</p>
+            <p>
+               <hi>Tully</hi> was of opinion that the world was fram'd in such an order at the first begin<g ref="char:EOLhyphen"/>ning,
+<note place="margin">Cicero de Divinat.</note>
+               <hi>ut certis rebus quaedam signa praecurre<g ref="char:EOLhyphen"/>rent,</hi> that certain signes, or tokens should al<g ref="char:EOLhyphen"/>waies runne before certaine effects to give a <hi>glimpse,</hi> or light of their approaching. But this rule cannot be extended unto all, for as it is false <hi>Logick</hi> to maintain an argument <hi>affirmatively</hi> from the <hi>part</hi> to the <hi>whole,</hi> so were it likewise a grosse Errour in <hi>Divini<g ref="char:EOLhyphen"/>ty</hi> to presse <hi>God,</hi> as it were perforce, to re<g ref="char:EOLhyphen"/>veale his pleasure touching future events because he hath given warning by expresse signes of <hi>some</hi> particulars. Yet the fruitlesse <hi>Plodders,</hi> and <hi>Prolers</hi> in Nativities thought no matter of <hi>importance</hi> could fall out,
+<pb n="13" facs="tcp:177631:11"/>without the same were signified before hand by the <hi>Starres. Cardan</hi> was so saw<g ref="char:EOLhyphen"/>cy as to <hi>erect</hi> a <hi>Figure</hi> of our <hi>Saviour's</hi> Birth:
+<note place="margin">Earle of North <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>āp<g ref="char:EOLhyphen"/>ton in his de<g ref="char:EOLhyphen"/>sensative p. 108 so cites him.</note>
+               <hi>Christ</hi> saith he was borne <hi>Primâfa<g ref="char:EOLhyphen"/>cie virginis ascendente,</hi> the first face of the <hi>Virgin ascending,</hi> whose proper image is a <hi>Ʋirgin</hi> nourishing a <hi>Child,</hi> and thereup<g ref="char:EOLhyphen"/>on, grounds an assurance that the <hi>Starres,</hi> and <hi>Planets</hi> wrought in his <hi>Nativity.</hi>
+               <note place="margin">Tertul. de Idololat.</note>
+               <hi>Cre<g ref="char:EOLhyphen"/>do hoc nomine Christum sibi obligaverunt.</hi> J think, as <hi>Tertullian</hi> speaks scoffingly, such <hi>Figure-flingers</hi> as these, bound <hi>Christ</hi> to their <hi>profession,</hi> by this courtesy of making the starres to keep an <hi>Audit</hi> of his com<g ref="char:EOLhyphen"/>ming. But 'tis both impious, and ridicu<g ref="char:EOLhyphen"/>lous to suppose the influence of the <hi>Planets</hi> doe inspire, and force effects, which are ordained by <hi>God.</hi> The Father is <hi>round</hi> with them. <hi>Non est regnum caelorum sperare,</hi>
+               <note place="margin">Tertul. ut su<g ref="char:EOLhyphen"/>pra.</note>
+               <hi>cujus radius, aut digitus abutitur caelo.</hi> He cannot hope for the Kingdome of Heaven, who thus abuseth heaven either with his <hi>finger,</hi> or his <hi>Compasse.</hi> These execrable illusions <hi>ipsam propemodûm dei majestatem pulsant,</hi>
+               <pb n="14" facs="tcp:177631:12"/>doe almost strike at the <hi>Almighties</hi> sove<g ref="char:EOLhyphen"/>raigne Majesty, and make it as it were a <hi>vassall</hi> to the works of his owne hands. There is no doubt but the very minute wherein all the miracles, and mercies should be wrought by <hi>Christ</hi> was fix'd in the Divine providence before the <hi>world</hi> was made. The fulnesse of time in which <hi>God</hi> sent his sonne was no other time then that which his <hi>Prophets,</hi> and not the <hi>Ho<g ref="char:EOLhyphen"/>roscope</hi> foretold.
+<note place="margin">Chrysol.</note>
+               <hi>Ʋidimus stellam ejus</hi> (as 'tis in the Text) (i.) <hi>Eum, qui habet stellam, non habetur à stella: Cujus ortum tenebat Autor, non quae ortum tenebat Autoris.</hi> Wee have seen <hi>his</hi> starre <hi>(i)</hi> we have seen <hi>him,</hi> who govern'd the <hi>starre,</hi> and not the starre <hi>him.</hi> Very well doe they call it <hi>his</hi> starre, because although all the <hi>starres</hi> being created by him are his, yet this was <hi>Christ's</hi> more <hi>pe<g ref="char:EOLhyphen"/>culiarly.</hi> The rest of the starres were made that they might <hi>distinguish</hi> the times, and seasons, this was commanded to appeare that it might declare the Lord of the world, and the time of his heavenly King<g ref="char:EOLhyphen"/>dome
+<pb n="15" facs="tcp:177631:12"/>was <hi>at hand. Stella erat non legifera,</hi>
+               <note place="margin">Chrysol.</note>
+               <hi>sed signifera, non apparuit caeli climate, sed virtute nascentis. Christ's</hi> nativity depen<g ref="char:EOLhyphen"/>ded not upon the <hi>starre,</hi> but the starre on his <hi>Nativity,</hi> in respect whereof it was first created.</p>
+            <p>It cannot be that this <hi>starre</hi> could be a<g ref="char:EOLhyphen"/>ny of those glorious lights either <hi>fix'd</hi> or <hi>planetary,</hi> which in the creation were made for the <hi>ornament</hi> of heaven, and to enlighten <hi>sublunary</hi> creatures. Betwixt them and this there are many differences, both in respect of its <hi>motion, splendor, situa<g ref="char:EOLhyphen"/>tion,</hi> and the <hi>manner</hi> of appearing. All o<g ref="char:EOLhyphen"/>ther starres move <hi>ad motum primi mobilis,</hi> circularly, from the <hi>East</hi> towards the <hi>West,</hi> whereas this <hi>starre</hi> proceeded in a straight line from the <hi>East</hi> towards the <hi>South.</hi> O<g ref="char:EOLhyphen"/>the starres appeare not in the day time, their light is obscur'd by the light of the <hi>Sunne:</hi> this starre appeard, and directed one <hi>Wise-men</hi> at <hi>high noone.</hi> Other starres are placed in the heaven, this was not in the
+<pb n="16" facs="tcp:177631:13"/>
+               <hi>firmament,</hi> but the <hi>Aire,</hi> otherwise it could not have pointed out the <hi>way</hi> to the <hi>Wise-men,</hi> nor the <hi>house</hi> where the <hi>Infant</hi> lay. Lastly this <hi>Starre</hi> did differ from other stars in the <hi>manner</hi> of appearing, for sometimes it appeard, and sometimes it did not; some<g ref="char:EOLhyphen"/>times it appear'd <hi>moving,</hi> and sometimes <hi>standing,</hi> so that it must needs follow it was no <hi>common</hi> starre, remaining in the heaven from the beginning, but a new light deputed only to the honour of our <hi>Saviour's</hi> birth, and the service of these <hi>Magi.</hi>
+            </p>
+            <p>Now if you would know how they understood the office of this <hi>starre</hi> was to be a <hi>Conduct</hi> to <hi>Christ,</hi> first we lay it as an undoubted truth they could not discover it by skill of the <hi>Astrolabe,</hi> that light was but a slight ground for a <hi>supernaturall</hi> be<g ref="char:EOLhyphen"/>liefe. Some hold they had often heard from the Oracles of the <hi>Sibils,</hi> and their own Prophet <hi>Balam</hi> had spread it over all their Country, that there should rise a
+<pb n="17" facs="tcp:177631:13"/>
+               <hi>Starre</hi> out of <hi>Iacob,</hi> and together with it a <hi>Scepter</hi> to <hi>Israel,</hi> as 'tis recorded in the Book of <hi>Numbers.</hi> This they learn'd, and this ranne in their mindes, this they made use of, and so comparing the <hi>Prophecies</hi> with the <hi>Event,</hi> they fell upon the right that this starre did portend <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>scepterd King</hi> was borne to the <hi>Iewes.</hi>
+            </p>
+            <p>J will not affirme, as some doe,
+<note place="margin">Vid. Mal<g ref="char:EOLhyphen"/>donat. su<g ref="char:EOLhyphen"/>per Math. c. 1.</note> that the holy <hi>Spirit</hi> himselfe assum'd the <hi>figure,</hi> and <hi>forme</hi> of this starre, but J may safely say that by vertue of his <hi>spirit,</hi> who is the <hi>Mor<g ref="char:EOLhyphen"/>ning Starre</hi> of the <hi>East,</hi> which guides <hi>Ar<g ref="char:EOLhyphen"/>cturus,</hi> and his <hi>Sonnes,</hi> as <hi>Job</hi> speakes, they attain'd the knowledge how this starre did fore-tell the birth of the <hi>Messiah,</hi> which should <hi>smite the corners of Moab, and destroy all the children of Seth.</hi> The Eternall <hi>word,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that light of <hi>truth</hi> did illuminate their soules to understand what <hi>Balam</hi> their <hi>Countreyman</hi> had divulged. The starre was a <hi>spark</hi> of Christ's owne <hi>kindling;</hi> A <hi>torch</hi> which himselfe <hi>lighted</hi> to direct these
+<pb n="18" facs="tcp:177631:14"/>
+               <hi>Wisemens</hi> footsteps. For they say not wee have seen a new starre in the ayre, strange, and miraculous, but they adde the <hi>particle</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the</hi> starre, thereby intimating they had seene a starre <hi>expected,</hi> and formerly reveal'd.
+<note place="margin">D. Leo.</note>
+               <hi>Dedit aspicientibus intellectum, qui praestitit signum.</hi> Certainly, saith <hi>Leo</hi> the great, he, which guided their <hi>Eye</hi> outward<g ref="char:EOLhyphen"/>ly inspir'd their <hi>heart</hi> inwardly.</p>
+            <p>And here from bringing the <hi>Magi</hi> to a new <hi>Sunne</hi> on <hi>Earth</hi> by a new <hi>starre</hi> in <hi>hea<g ref="char:EOLhyphen"/>ven</hi> we may observe how sweetly, and fa<g ref="char:EOLhyphen"/>vourably the Lord dealts in that hee wins men by those meanes, which are <hi>suteable,</hi> and correspondent to their <hi>dispositions.</hi> These <hi>Astrologers</hi> were studious, and dili<g ref="char:EOLhyphen"/>gent to seeke after God in his <hi>coelestiall</hi> works, &amp; therefore he teacheth them out of their <hi>own book,</hi> a <hi>starre</hi> from heaven shall lead them to the place where <hi>divine</hi> know<g ref="char:EOLhyphen"/>ledge is to be had. <hi>God</hi> is never <hi>deficient</hi> to him that is not so to <hi>himselfe.</hi> Indeed our inbred corruption infects whatsoever is
+<pb n="19" facs="tcp:177631:14"/>infus'd into us, and so no goodnesse in us of it selfe is a fit mover of the good graces of <hi>God,</hi> yet his <hi>voluntary</hi> favour, his frank, &amp; free affection regards the small <hi>sparkes,</hi> and beginnings of light, which himselfe hath <hi>set up</hi> in our soules, and though it burnes <hi>dimme,</hi> yet if we let it not goe out, but doe our best to <hi>cleare</hi> that <hi>obscure,</hi> faint light, he will make us capable of a greater light. The weake, <hi>waxen</hi> wings of <hi>nature</hi> are not <hi>sufficient</hi> to raise us to our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of eternall happinesse, yet if her faculties, by <hi>grace enabled,</hi> be well <hi>husbanded,</hi> rightly <hi>managed,</hi> they will not hinder an ascending a degree, or two towards it. They cannot <hi>save</hi> us, they may some way <hi>profit</hi> us, if wee doe not sit downe in the <hi>beginnings</hi> of knowledge, but with a willing minde goe on, and travell for more.</p>
+            <p>J suppose none will conceave the liberall intentions, &amp; bountifull actions of <hi>Morall honest</hi> men to be evill <hi>formally,</hi> in the very <hi>Essence,</hi> though they are so, being taken <hi>cir<g ref="char:EOLhyphen"/>cumstantially,</hi>
+               <pb n="20" facs="tcp:177631:15"/>in respect they ayme not at the right <hi>end, Christ's</hi> glory, which makes them <hi>ineffectuall.</hi> For as <hi>trueth</hi> is truth <hi>where<g ref="char:EOLhyphen"/>soever</hi> we finde it, so <hi>good</hi> ceaseth not to be good in <hi>whomsoever</hi> it resideth. Jf the <hi>sub<g ref="char:EOLhyphen"/>ject</hi> shall alter the very <hi>nature</hi> of a quality, then the <hi>misplacing</hi> of a vertue will prove its losse, &amp; <hi>destruction;</hi> vertue shall <hi>degene<g ref="char:EOLhyphen"/>rate</hi> into vice, and so two <hi>opposites</hi> may not onely agree, but grow into an inseparable <hi>union,</hi> and be entirely <hi>one.</hi> The <hi>Scripture</hi> is so farre from crying downe <hi>morall prepara<g ref="char:EOLhyphen"/>tions,</hi> that it presseth particulars of that kinde, which <hi>God</hi> hath so accepted that up<g ref="char:EOLhyphen"/>on their right imployment he hath <hi>graci<g ref="char:EOLhyphen"/>ously</hi> pleas'd to <hi>infuse</hi> a more ample mea<g ref="char:EOLhyphen"/>sure of holinesse, a further meanes of salva<g ref="char:EOLhyphen"/>tion. The <hi>Eunuch</hi> in the Acts was well af<g ref="char:EOLhyphen"/>fected to Religion in undertaking so long a journey as from <hi>Aethiopia</hi> to <hi>Jerusalem</hi> for devotion sake. The <hi>Lord</hi> registers his <hi>religious</hi> steps, and the <hi>Spirit</hi> convaies <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> to his Chariot to give him better instru<g ref="char:EOLhyphen"/>ction. <hi>Cornelius</hi> was a just man, and, which
+<pb n="21" facs="tcp:177631:15"/>was <hi>strange</hi> in a <hi>Captaine,</hi> made up of almes, and good works, he was one that fear'd <hi>God,</hi> and this was the utmost period of his <hi>explicit Creed</hi> before he met with S. <hi>Peter</hi> for ought appeares in the text. The <hi>Lord</hi> takes notice of this devout dispositi<g ref="char:EOLhyphen"/>on, and in a vision directs him how to send for <hi>Peter</hi> to be inform'd in the Knowledge of the <hi>Gospell.</hi> The <hi>Ancients</hi> then who hop'd well of <hi>morall honest men</hi> are not too <hi>uncharitably</hi> to be censurd, for, as they urge, though <hi>God</hi> tyes <hi>us</hi> to the ordinary means, yet he hath not tyed <hi>himselfe.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ingenuity</hi> of nature, and other <hi>morall</hi> excellencies are not <hi>opposite,</hi> but <hi>subordinate</hi> to grace: Grace destroyes not, nor abolish<g ref="char:EOLhyphen"/>eth them, but <hi>heales,</hi> and perfects them. The <hi>Wisemen</hi> desir'd to improve their piety, and God <hi>sublimates</hi> it, sending his starre as a <hi>Harbinger</hi> to draw them closer to him, &amp; that out of the <hi>East,</hi> which is the place of the <hi>starre's</hi> first appearing. <hi>Where is he which is borne King of the Iewes?</hi> We have seen <hi>his</hi> starre in the <hi>East.</hi>
+            </p>
+            <pb n="22" facs="tcp:177631:16"/>
+            <p>The <hi>East,</hi> as it followes in the <hi>Evange<g ref="char:EOLhyphen"/>list,</hi> was the place of the Starres <hi>first</hi> ap<g ref="char:EOLhyphen"/>pearing that where <hi>sinne</hi> abounded <hi>grace</hi> might superabound. There <hi>Sorcerers,</hi> and Practisers of hellish Arts serv'd <hi>Satan,</hi> and thence shin'd a <hi>spirituall</hi> light to chase a<g ref="char:EOLhyphen"/>way <hi>darke</hi> ignorance, and spirituall wic<g ref="char:EOLhyphen"/>kednesse. <hi>In lumine tuo ridebunt lumen.</hi> In <hi>thy</hi> light they shall see light saith <hi>David;</hi>
+               <note n="(i)" place="margin">S. Austen.</note>
+               <hi>In Christo tuo videbunt gratiam.</hi> In the Lords <hi>Christ,</hi> or Gods <hi>Anoynted</hi> they shall apprehend grace to be made partakers of the inheritance of the <hi>Saints</hi> in <hi>Light,</hi> who hath taken them out of the Kingdome of darknesse, and translated them into the Kingdome of his deare <hi>Sonne.</hi> So true is that of <hi>Esay,</hi> the people of the <hi>Gentills,</hi> which sate in darknesse saw a great <hi>light,</hi> and light is risen to them, which dwell in the region of the shadow of death.</p>
+            <p>And indeed not without good ground, did this new starre appeare in that part of the world where the Sunne <hi>riseth,</hi> since it
+<pb n="23" facs="tcp:177631:16"/>was to declare, the new riseing of the Sunne of <hi>righteousnesse,</hi> which enlightens every one that comes into the world. Be<g ref="char:EOLhyphen"/>sides, from whence should our <hi>faith</hi> have its beginning, but from thence where the <hi>Sunne</hi> hath its first rising, <hi>faith</hi> giving light to the soule, as the <hi>Sunne</hi> to the body. <hi>Bon<g ref="char:EOLhyphen"/>adventure</hi> holds it fit in congruity, that from the <hi>East</hi> man should first be taught to worship God, since in the <hi>East</hi> he had first offended him. 'Tis no vaine conceipt that our <hi>Saviour</hi> was pleas'd to be crucified with his back towards the <hi>East,</hi> to inti<g ref="char:EOLhyphen"/>mate he had <hi>cast behind</hi> him, and quite for<g ref="char:EOLhyphen"/>got all sinne, whose first footing was in the <hi>East. Salmeron's</hi> opinion concurring with the <hi>Centurists</hi> may seem probable that because these <hi>First fruits</hi> of the <hi>Gen<g ref="char:EOLhyphen"/>tills</hi> came from the <hi>East,</hi> well order'd Christians in a commendable conformity to the <hi>primitive</hi> times, doe use <hi>to pray</hi> with their faces <hi>that way,</hi> as professing how in the <hi>persons</hi> of these <hi>Wise-men</hi> they receav'd the rudiments, and <hi>Principles</hi> of their <hi>be<g ref="char:EOLhyphen"/>leefe.</hi>
+               <pb n="22" facs="tcp:177631:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:177631:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:177631:18"/>The turning our <hi>backs</hi> to the <hi>West</hi> when we are in religious devotions, may be morally usefull against the <hi>Jewes,</hi> as sig<g ref="char:EOLhyphen"/>nifying we believe <hi>Christ's</hi> death to be <hi>pass'd,</hi> and <hi>behind</hi> us, and therefore we look to the <hi>East,</hi> thereby acknowledging both his <hi>Resurrection,</hi> &amp; comming againe to <hi>Judgement,</hi> who shall come as the light<g ref="char:EOLhyphen"/>ning which cometh from the <hi>East, Math,</hi> 24. Hence the wisdome of our <hi>Church</hi> hath order'd, that in situating Christian bodies in the grave, their <hi>faces</hi> be setled <hi>Eastward,</hi> as thence expecting the glorious second coming of their blessed <hi>Saviour.</hi> But J am to consider for what end the <hi>Wise-men</hi> pre<g ref="char:EOLhyphen"/>sented themselves to <hi>Christ</hi> at his first com<g ref="char:EOLhyphen"/>ing in the flesh, and that's specified in the close of the verse, it was to performe the <hi>religious</hi> Act of adoration, we have seen (say they) his starre in the <hi>East,</hi> and are come to <hi>worship</hi> him.</p>
+            <p>The <hi>Scribes,</hi> and <hi>Pharisees,</hi> yea whole multitudes sought our <hi>Saviour,</hi> but it was
+<pb n="25" facs="tcp:177631:18"/>either to crucify him, or to entrap him in his speech, to see his miracles, or to be fed with his loaves, and fishes. These took by<g ref="char:EOLhyphen"/>paths, and wrong waies to come to <hi>Christ.</hi> The persons in the Text sought <hi>viam in viâ,</hi> the Lord of <hi>truth</hi> in the <hi>true</hi> way; they ap<g ref="char:EOLhyphen"/>prehended <hi>Christ,</hi> not only as the way <hi>to life,</hi> but as the <hi>way,</hi> and the <hi>life,</hi> which made them fall downe, and <hi>worship</hi> him. Wherein they acknowledged the <hi>Sonne</hi> of <hi>Mary</hi> to be the King of <hi>Eternity,</hi> adoration being the homage due to the <hi>God</hi> of hea<g ref="char:EOLhyphen"/>ven. But is it not strange that the <hi>circum<g ref="char:EOLhyphen"/>cised</hi> should deny him, who was borne King in the midst of them, and yet the <hi>un<g ref="char:EOLhyphen"/>circumcised,</hi> aliens to the <hi>Covenant,</hi> confesse his soveraigne power in <hi>Ierusalem,</hi> the <hi>Mo<g ref="char:EOLhyphen"/>tropolis,</hi> and Royall seat of the circumcisi<g ref="char:EOLhyphen"/>on? 'Tis an <hi>Axiom</hi> in Philosophy <hi>Quòd sen<g ref="char:EOLhyphen"/>sibile positum supra Sensorium non facit sensa<g ref="char:EOLhyphen"/>tionem,</hi> that an <hi>object</hi> too neere applied to its proper <hi>Organ,</hi> makes the sense loose its apprehension. As a hand laid too close upon the eye cannot be discern'd, as it may
+<pb n="26" facs="tcp:177631:19"/>at a <hi>distance.</hi> Much after this manner it befell the <hi>Iewes. Christ</hi> being so neere to them, that he lineally descended from that <hi>Nation,</hi> they neglected a right application of him, and became so <hi>blind</hi> in the <hi>fight</hi> of him, who was the <hi>light</hi> of the world, that they could not see the glory of his power, and the <hi>fruit</hi> of his coming, whereas this bright starre of <hi>righteousnesse</hi> shin'd clearly in the region of darknesse. They, who dwelled farre off were carefull to follow the light of reason, and conscience, to im<g ref="char:EOLhyphen"/>prove, and make the best use of <hi>prudentiall</hi> motives. And here I must take leave to vary from <hi>Calvin's</hi> exposition,
+<note place="margin">Vide S. <hi>A<g ref="char:EOLhyphen"/>than.</hi> l. de In<g ref="char:EOLhyphen"/>carn. <hi>Nazi<g ref="char:EOLhyphen"/>anz.</hi> Orat. 9.5. August. Ser. 29. de Temp.</note> the current of <hi>Antiquity</hi> being against it. He would have the <hi>Worship</hi> in this place tender'd, not to be an act of <hi>Religion,</hi> but <hi>Civility.</hi>
+            </p>
+            <p>We deny not that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> promiscu<g ref="char:EOLhyphen"/>ously signifies civill, and divine reverence, yet the Holy <hi>Ghost</hi> commonly useth it for a <hi>religious</hi> prostration of the body in the act of <hi>adoration. Cornelius</hi> his devout man<g ref="char:EOLhyphen"/>ner
+<pb n="27" facs="tcp:177631:19"/>of worshipping S. <hi>Peter,</hi> in the tenth of the Acts is expressed by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The worship, which the foure and twen<g ref="char:EOLhyphen"/>ty <hi>Elders</hi> yeeld to <hi>God</hi> in the 19. of the <hi>Re<g ref="char:EOLhyphen"/>vel.</hi> is render'd by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and our Savi<g ref="char:EOLhyphen"/>our applies it to Satan S. Math. 4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thou shalt worship the Lord thy God. And in the same <hi>religious</hi> sense, the word must be understood in my text, o<g ref="char:EOLhyphen"/>therwise the <hi>Wise men</hi> had been ridiculous in undertaking such a tedious journey, if the end of their coming were to worship a temporall <hi>Prince,</hi> who being newly borne could neither take notice of their <hi>homage,</hi> nor understand the honour was presented to him. <hi>Herod</hi> might well be of<g ref="char:EOLhyphen"/>fended with this action, because they went about to set up another King within his <hi>Territories.</hi> Their countreymen at home might suspect them of seditious pra<g ref="char:EOLhyphen"/>ctises, as if they mean'd to bring in a for<g ref="char:EOLhyphen"/>raigne <hi>Ruler.</hi> Wherefore J may safely con<g ref="char:EOLhyphen"/>clude that the meannesse of <hi>Christs</hi> birth would have diminished his glory even in
+<pb n="28" facs="tcp:177631:20"/>the judgement of those <hi>Wise men,</hi> if they had not beleeved that He, whom they saw in the manger was <hi>Ipse Ille</hi> that bare rule in heaven.</p>
+            <p>The <hi>Ʋbiquitaries</hi> in declining an irreli<g ref="char:EOLhyphen"/>gious neglect have fallen to excesse of piety by exhibiting <hi>divine</hi> worship to the <hi>hu<g ref="char:EOLhyphen"/>mane</hi> nature <hi>abstractedly</hi> from the divine, whereby they doe not much differ from Heathen Jdolaters, who adore the <hi>Creature</hi> for the <hi>Creator.</hi> The <hi>Schoole</hi> is herein or<g ref="char:EOLhyphen"/>thodox;
+<note place="margin">Aqu. part. 3. q. 25. art. 2.</note>
+               <hi>Adoratio latriae non exhibetur huma<g ref="char:EOLhyphen"/>nitati Christi ratione sui ipsius, sed ratione divi<g ref="char:EOLhyphen"/>nitatis, cui unitur:</hi> divine worship is not gi<g ref="char:EOLhyphen"/>ven to th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> humanity in respect of it selfe, but in regard of the Divinity to which it is united.
+<note place="margin">S. Aust tract. in Ioh. 42.</note>
+               <hi>Divinitas ejus quo imus, humanitas e<g ref="char:EOLhyphen"/>jus quâ imus,</hi> so saith S. <hi>Austen.</hi> His divini<g ref="char:EOLhyphen"/>ty is that whereunto we goe, his humani<g ref="char:EOLhyphen"/>ty is that whereby we goe:
+<note place="margin">Paulinus A<g ref="char:EOLhyphen"/>quiliens: cont: Felicem l. 1. in Biblioth. pat.</note>
+               <hi>at non alter in suo, Alter in nostro,</hi> yet he is not another in that which is his, and another in that which is ours, <hi>sed totus in suo, &amp; totus in no<g ref="char:EOLhyphen"/>stro,
+<pb n="29" facs="tcp:177631:20"/>idem in utro{que}.</hi> But whole in that which is his <hi>owne,</hi> and whole in that is <hi>ours,</hi> and the same in both.
+<note place="margin">Concil. Con<g ref="char:EOLhyphen"/>stantinop. 5. Can. 9. juxta Concil. E<g ref="char:EOLhyphen"/>phes. c. 8.</note> Hence it is that we doe not <hi>terminate</hi> our adoration in ei<g ref="char:EOLhyphen"/>ther nature a part, and <hi>severally,</hi> but we worship with <hi>one</hi> adoration the <hi>God-head</hi> with the <hi>Man-hood</hi> in the person of the Word. <hi>Damascen</hi> speaks it out, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Damas. l. 3. Orth. Fid. c. 8.</note> saith he, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I for<g ref="char:EOLhyphen"/>beare to pursue these speculative <hi>litigations,</hi> being desirous rather to <hi>stint</hi> my selfe then to <hi>lash</hi> out. Give me leave then to summe up all with that which may excite de<g ref="char:EOLhyphen"/>votion.</p>
+            <p>
+               <hi>Quod fecit</hi> Magus <hi>non faciet</hi> Christianus? The Easterne <hi>Sages</hi> travell'd farre in the eztremity of <hi>winter</hi> to present, a solemnt worship to our Lord, and Saviour, where are they that will scarce <hi>step</hi> out of doores to <hi>God's</hi> publique worship, when the <hi>Church</hi> stands hard by, if perchance there fall a few drops of raine to wet their <hi>dresse,</hi> or to <hi>discolour</hi> their shooes? <hi>These</hi> in the
+<pb n="30" facs="tcp:177631:21"/>text had but the <hi>irradiation</hi> of one starre for a <hi>Convoy</hi> to <hi>Christ,</hi> we have a <hi>Constellation</hi> of many starres, and some of the first <hi>Mag<g ref="char:EOLhyphen"/>nitude,</hi> shining cleerely in this <hi>Horizon.</hi> Eminent, and powerfull Preachers of the <hi>Gospell,</hi> those great <hi>Lights</hi> of the <hi>Church</hi> have a long time convey'd a bright illustra<g ref="char:EOLhyphen"/>tion upon this <hi>Goshen,</hi> this our land of light, and shall we come short of the <hi>dar<g ref="char:EOLhyphen"/>kest</hi> times in the <hi>lustre</hi> of religion? What a shame is it that they should be more devout before the <hi>Manger</hi> in the state of Christ's <hi>humiliation</hi> then wee are before the <hi>Altar</hi> now he is in the height of his <hi>Exaltation!</hi> All the <hi>postures</hi> of their bodies, and soules were awfully affected to <hi>Christ's</hi> infinite gentlenesse, &amp; goodnesse, even then, when he made a <hi>Stable</hi> the <hi>Chamber</hi> of his <hi>Pre<g ref="char:EOLhyphen"/>sence.</hi> And therefore 'tis to be fear'd, if we leave not of our prophane carelesnesse, that the men of the <hi>East</hi> will rise up in Judgement against the Men of the <hi>West</hi> (i) against many in our daies, who present themselves in the <hi>Courts</hi> of the <hi>Lord</hi> at
+<pb n="31" facs="tcp:177631:21"/>times of divine service in <hi>ambulatory</hi> moti<g ref="char:EOLhyphen"/>ons, <hi>irreverent</hi> deportments, <hi>vaine</hi> Com<g ref="char:EOLhyphen"/>munications, as if they made litle or no dif<g ref="char:EOLhyphen"/>ference betwixt the <hi>Exchange,</hi> and the <hi>Church,</hi> the common <hi>Taverne,</hi> and the sa<g ref="char:EOLhyphen"/>cred <hi>Tabernacle.</hi>
+            </p>
+            <p>But let us, who acknowledge <hi>Christ</hi> our <hi>Leige</hi> Prince, and Soveraigne, like good subjects humbly seek, &amp; come to this <hi>God Incarnate,</hi> falling down at the <hi>Manger,</hi> and at the lap of the Virgin, where this blessed <hi>Childe</hi> lyeth ('tis <hi>Luthers</hi> zealous exhorta<g ref="char:EOLhyphen"/>tion on the Galath.) and there behold him given to us, borne for us, sucking, growing, dying, rising againe, ascending above the heavens that he may at length bring us thi<g ref="char:EOLhyphen"/>ther, where we shall see him <hi>face</hi> to <hi>face,</hi> which we beseech him to grant us for his mercies, and merits sake. AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
